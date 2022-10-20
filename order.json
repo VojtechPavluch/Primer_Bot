@@ -1,0 +1,26 @@
+[
+  {
+    "sequence": "GTTCTTCGACATTGCCGTCG",
+    "label": "h-ppia-GTTCTTCGACATTGCCGTCG-240-F"
+  },
+  {
+    "sequence": "CTGCTGTCTTTGGGACCTTGT",
+    "label": "h-ppia-CTGCTGTCTTTGGGACCTTGT-240-R"
+  },
+  {
+    "sequence": "GCTGAGAACGGGAAGCTTGT",
+    "label": "h-gapdh-GCTGAGAACGGGAAGCTTGT-112-F"
+  },
+  {
+    "sequence": "TGGACTCCACGACGTACTCA",
+    "label": "h-gapdh-TGGACTCCACGACGTACTCA-112-R"
+  },
+  {
+    "sequence": "GAGCATCCCCCAAAGTTCAC",
+    "label": "h-actb-GAGCATCCCCCAAAGTTCAC-97-F"
+  },
+  {
+    "sequence": "TCCTGTAACAACGCATCTCA",
+    "label": "h-actb-TCCTGTAACAACGCATCTCA-97-R"
+  }
+]
